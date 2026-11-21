@@ -7,7 +7,7 @@ no dependencies.
 
 import os
 
-TEXT = "The stars do not hurry. Light that left its star before you were born is still arriving, patient as rain on a roof. You are small beneath it, and the smallness is a relief \u2014 nothing tonight is yours to carry."
+TEXT = "The stars do not hurry. Light that left its star before you were born is still arriving, unhurried as rain on a roof. You are small beneath it, and the smallness is a relief \u2014 nothing tonight is yours to carry."
 
 
 def main():
